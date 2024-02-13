@@ -1,1 +1,2 @@
 const component = () => {};
+let a;
